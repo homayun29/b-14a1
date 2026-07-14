@@ -39,7 +39,7 @@ align-items: center;
     color: white;
     text-align: center;
     display: grid;
-    gap: 20px;
+    gap: 40px;
 }
 .header-content p{
     font-size: 6px;
