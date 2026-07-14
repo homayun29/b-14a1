@@ -42,10 +42,10 @@ align-items: center;
     gap: 40px;
 }
 .header-content{
-    font-size: 55px;
+    font-size: 40px;
 }   
 .header-content p{
-    font-size: 6px;
+    font-size: 12px;
 }
 .header-content button{
     width: 181px;
