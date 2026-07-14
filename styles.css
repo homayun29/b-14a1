@@ -41,9 +41,6 @@ align-items: center;
     display: grid;
     gap: 20px;
 }
-header-content h1{
-    font-size: 32px;
-}
 .header-content button{
     width: 181px;
     padding: 15px 0;
