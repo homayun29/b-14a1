@@ -24,7 +24,7 @@ a{
     padding: 12px;
     border-radius: 8px;
 }
-header-content{
+header{
     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./assets/banner.jpg);
 background-position: center;
 background-repeat: no-repeat;
