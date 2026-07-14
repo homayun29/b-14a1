@@ -39,13 +39,13 @@ align-items: center;
     color: white;
     text-align: center;
     display: grid;
-    gap: 20px;
+    gap: 30px;
 }
 .header-content button{
     width: 181px;
     padding: 15px 0;
     margin-left: 32%;
-    margin-top: 399px;
+    margin-top: 350px;
     border: none;
     border-radius: 8px;
 }
