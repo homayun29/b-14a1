@@ -30,7 +30,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 width: 100%;
-height: auto;
+height: 100%;
 display: grid;
 justify-content: center;
 align-items: center;
@@ -40,6 +40,9 @@ align-items: center;
     text-align: center;
     display: grid;
     gap: 20px;
+}
+header-content h1{
+    font-size: 32px;
 }
 .header-content button{
     width: 181px;
