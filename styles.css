@@ -240,6 +240,7 @@ align-items: center;
     display: flex;
     list-style: none;
     gap: 35px;
+    padding-left: 40px
 }
 
 .flood-navbar ul li a{
