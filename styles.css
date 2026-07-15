@@ -226,18 +226,14 @@ align-items: center;
     width: 100%;
 
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 50px;
 
     padding: 18px 5%;
     box-sizing: border-box;
 
     background: #228B22;
-    z-index: 1000;
-}
-
-.flood-logo img{
-    width: 80px;
 }
 
 .flood-navbar ul{
