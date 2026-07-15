@@ -201,6 +201,36 @@ align-items: center;
 }
 
 .flood-relief{
+    position: relative;
+}
+
+.flood-navbar{
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 5%;
+    box-sizing: border-box;
+    z-index: 10;
+}
+
+.flood-navbar ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.flood-navbar ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+.flood-relief{
     background-image: linear-gradient(
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
