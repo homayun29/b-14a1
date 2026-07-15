@@ -39,16 +39,19 @@ align-items: center;
     color: white;
     text-align: center;
     display: grid;
-    gap: 20px;
+    gap: 18px;
     margin-top: 80px;
 } 
 .header-content h1{
-    font-size: 72px;
+    font-size: 68px;
     font-weight: 700;
+    line-heght: 1.1;
 }
 .header-content p{
-    font-size: 22px;
-    line-height: 1.7;
+    font-size: 18px;     
+    line-height: 1.6;
+    width: 700px;        
+    margin: 0 auto;
 }
 .header-content button{
     width: 181px;
