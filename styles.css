@@ -226,14 +226,14 @@ align-items: center;
     width: 100%;
 
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    gap: 50px;
 
     padding: 18px 5%;
     box-sizing: border-box;
 
     background: #228B22;
+    z-index: 1000;
 }
 
 .flood-navbar ul{
@@ -254,17 +254,20 @@ align-items: center;
 }
 
 .flood-donate{
-    background: #2F61FF;
+    background: #FF9800;
     color: white;
     border: none;
     padding: 12px 25px;
     border-radius: 8px;
     font-size: 16px;
+    font-weight: bold;
     cursor: pointer;
+    margin-left: auto;
+    transition: 0.3s;
 }
 
 .flood-donate:hover{
-    background: #1E4BE8;
+    background: #F57C00;
 }
 
 .relief-btn{
