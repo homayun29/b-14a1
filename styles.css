@@ -46,7 +46,7 @@ align-items: center;
 .header-content h1{
     font-size: 68px;
     font-weight: 700;
-    line-heght: 1.1;
+    line-height: 1.1;
 }
 .header-content p{
     font-size: 14px;     
@@ -282,7 +282,7 @@ align-items: center;
 }
 
 .relief-btn:hover{
-    background: #FF9800;
+    background: #F57C00;
 }
 
 .footer{
