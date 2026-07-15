@@ -232,7 +232,7 @@ align-items: center;
 }
 
 .footer{
-    background: #0f172a;
+    background: #0E1B2B;
     padding: 40px 5%;
 }
 
@@ -243,13 +243,18 @@ align-items: center;
 }
 
 .footer-logo{
-    width: 50px;
-    height: auto;
+    width: 160px;
 }
 
 .social-icons{
     display: flex;
     gap: 20px;
+}
+
+.social-icons a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .social-icons img{
@@ -259,18 +264,16 @@ align-items: center;
 }
 
 .social-icons img:hover{
-    transform: scale(1.2);
+    transform: scale(1.15);
 }
 
 .footer hr{
-    margin: 29px 0 19px;
+    margin: 30px 0 20px;
     border: none;
-    border-top: 1px solid #555;
+    border-top: 1px solid #334155;
 }
+
 .copy{
-    margin: 0;
-    padding-top: 15px;
-    text-align: left;
-    color: #ddd;
-    font-size: 16px;
+    color: #cbd5e1;
+    font-size: 15px;
 }
