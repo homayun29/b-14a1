@@ -46,6 +46,10 @@ align-items: center;
     font-size: 72px;
     font-weight: 700;
 }
+.header-content p{
+    font-size: 22px;
+    line-height: 1.7;
+}
 .header-content button{
     width: 181px;
     padding: 15px 0;
