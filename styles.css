@@ -208,7 +208,7 @@ align-items: center;
     url("./picb-1.jpeg");
 
     background-size: cover;
-    background-position: center;
+    background-position: center 20%;
     height: 500px;
 
     display: flex;
